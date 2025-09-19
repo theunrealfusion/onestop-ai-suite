@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/<your-username>/onestop-ai-suite)  
-![Repo Stars](https://img.shields.io/github/stars/<your-username>/onestop-ai-suite?style=social)  
+![Last Commit](https://img.shields.io/github/last-commit/theunrealfusion/onestop-ai-suite)  
+![Repo Stars](https://img.shields.io/github/stars/theunrealfusion/onestop-ai-suite?style=social)  
 
 **OneStop-AI-Suite** is your **all-in-one hub** for learning and experimenting with **Agentic AI** and **RAG (Retrieval-Augmented Generation)**.
 It provides structured tutorials, practical examples, and best practices to help you build AI agents that reason, retrieve, and act.
