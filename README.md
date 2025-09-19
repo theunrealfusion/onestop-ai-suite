@@ -1,56 +1,76 @@
-🧠 OneStop-AI-Suite
+# 🧠 OneStop-AI-Suite
 
-🚀 OneStop-AI-Suite is your all-in-one hub for exploring Agentic AI and RAG (Retrieval-Augmented Generation).
-Whether you’re a learner, developer, or researcher, this suite gives you 📘 tutorials, 🛠️ sample projects, and 🔍 best practices to build intelligent AI agents.
+**OneStop-AI-Suite** is your **all-in-one hub** for learning and experimenting with **Agentic AI** and **RAG (Retrieval-Augmented Generation)**.
+It provides structured tutorials, practical examples, and best practices to help you build AI agents that reason, retrieve, and act.
 
-✨ What’s Inside?
+---
 
-📘 Step-by-step tutorials on Agentic RAG
+## ✨ Key Features
 
-🛠️ Sample projects: research bots, summarizers, publishers
+* 📘 **Step-by-step tutorials** on Agentic RAG
+* 🛠️ **Sample projects** – from research bots to publishing agents
+* 🔍 **Blueprints & best practices** for agent workflows
+* 📝 **Logging & reporting** for transparent pipelines
+* 🧪 A **playground** for experimentation
 
-🔍 Blueprints for multi-agent workflows
+---
 
-📝 Logs & reports for transparent agent runs
+## 🚀 Getting Started
 
-🧪 A playground to experiment with your own ideas
+### 1️⃣ Clone the repository
 
-🚀 Get Started
-1️⃣ Clone the repo
+```bash
 git clone https://github.com/<your-username>/onestop-ai-suite.git
 cd onestop-ai-suite
+```
 
-2️⃣ Set up environment
+### 2️⃣ Set up environment
+
+```bash
 # Create virtual environment
 python -m venv .venv
-source .venv/bin/activate   # (Linux/Mac)
-.venv\Scripts\activate      # (Windows)
+
+# Activate it
+source .venv/bin/activate   # Linux/Mac
+.venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
-3️⃣ Run your first tutorial
+### 3️⃣ Run your first tutorial
+
+```bash
 cd tutorials/hello-agent
 python main.py
+```
 
-📂 Repo Structure
+---
+
+## 📂 Project Structure
+
+```
 onestop-ai-suite/
-│── tutorials/     # 📘 Step-by-step guides  
-│── samples/       # 🛠️ Agentic RAG projects  
-│── logs/          # 📝 Agent outputs & logs  
-│── docs/          # 📑 References & extra notes  
-│── requirements.txt  
+│── tutorials/       # Step-by-step learning modules  
+│── samples/         # Ready-to-use Agentic RAG projects  
+│── logs/            # Agent execution logs & outputs  
+│── docs/            # Additional references & resources  
+│── requirements.txt # Python dependencies  
+```
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome!
 
-Fork the repo 🍴
+1. Fork the repo 🍴
+2. Create a feature branch 🌱
+3. Commit changes with clear messages ✍️
+4. Submit a pull request 🔄
 
-Create a feature branch 🌱
+---
 
-Submit a PR 🔄
+## 📜 License
 
-📜 License
-
-MIT License – free to use, modify, and share.
+This project is licensed under the **MIT License** – free to use, modify, and share.
