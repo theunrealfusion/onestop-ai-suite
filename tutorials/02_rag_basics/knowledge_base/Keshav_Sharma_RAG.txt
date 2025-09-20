@@ -1,0 +1,62 @@
+Name: Keshav Sharma
+Role: ASP.Net Developer
+
+Contact:
+Email: kshvsharma980@gmail.com
+Phone: 9968713480
+Location: Delhi - NCR
+Website: www.kshvlabs.ml
+LinkedIn: linkedin.com/in/kshvsharma980
+GitHub: github.com/kshvsharma960
+
+WORK EXPERIENCE:
+
+1. ASP .NET Developer - Nagarro (07/2019 - Present, Gurgaon)
+   - Domain: Currency / Win App Development
+   - Role: C# .Net Developer on WinCE based WinForm Application.
+   - Responsibilities: Requirement gathering, suggesting better approaches, finalizing key points after brainstorming.
+   - Technical Stack: ASP.Net, Multi-Threading, Thread Sync.
+
+2. ASP.Net Developer - Cognizant Technology Solutions (01/2017 - 07/2019, Gurgaon/Noida)
+   - Project: Pharmaceutical WebApp
+   - Responsibilities: Enhancement of WebApp modules, frontend design & functionality changes, technical support for tool demonstration.
+   - Technologies: JQuery, KendoUI, CSS, ASP.Net C#.
+   - Special Contributions: Map creation using ArcGIS Map & Catalog, POC with GeoServer for cost saving, dissolving ZipCodes in dynamic layers.
+
+3. ASP.Net Developer - Cognizant Technology Solutions (09/2015 - 12/2016, Bangalore/Chennai)
+   - Project: LiveLink to SharePoint 2013 migration
+   - Role: .Net developer responsible for LiveLink CMS activities.
+   - Contributions: Automated banner placement, programmatically set Read-Only on LiveLink pages, designed wrapper tools.
+   - Achievement: Won Rising Star award for ReadOnly tool automation.
+
+PERSONAL PROJECTS:
+- .Net Core Stock Portal with MongoDB (06/2020 - Present): Web App for stock market simulation.
+- Android Apps: SpeedoMeter, Space Voyager, Loan EMI Calculator (03/2020 - 06/2020), published on Google Play & Amazon Store.
+
+SKILLS:
+- ASP.Net, ASP.Net Core, SQL Server, MongoDB
+- KendoUI, jQuery, ArcGIS, GeoServer, GCP
+
+TOOLS & OS:
+- Windows, Windows CE
+- Visual Studio IDE, MS Office, q-GIS
+- Cloud: Google Cloud Platform
+- Android Dev: Apache Cordova, Phonegap, Xamarin
+
+ACHIEVEMENTS:
+- PCM topper in 12th (93% in Physics, Chemistry, Mathematics)
+- Winner - Chess Tournament, Raman Academy (2011)
+- Hosted GPS Blog: www.Newbietechie.blogspot.in
+
+EDUCATION:
+- B.Tech, Galgotias University (08/2011 - 07/2015), CGPA: 8.29
+- Intermediate (12th), DAV Public School (05/2010 - 04/2011), 85.2% (PCM + Computer Science)
+- High School (10th), DAV Public School (05/2008 - 04/2009), 85.8%
+
+LANGUAGES:
+- English
+- Hindi
+
+INTERESTS:
+- Video Games, Chess, Chinese Checkers
+- Cricket, Volleyball

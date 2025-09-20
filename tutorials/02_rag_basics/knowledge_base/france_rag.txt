@@ -1,0 +1,3 @@
+France is a country in Western Europe. Its capital city is Paris, which is known for its art, culture, and history. Paris is home to landmarks such as the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral.
+
+RAG (Retrieval-Augmented Generation) is an approach that combines retrieval of relevant documents with generative models to answer questions using both context and model knowledge.
